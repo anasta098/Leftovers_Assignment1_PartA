@@ -1,0 +1,74 @@
+Minimum Viable Features (MVF) 
+
+1. Camera feature [Description of Feature]
+
+FlippingRooms allows the user to immerse themselves in an augmented reality (AR) when it comes to remodelling and redesigning their own rooms. With the camera feature installed in the application, the user is able to take a photo of the size of the room that they are planning to redecorate. In addition to that, if the camera is unable to capture every angle of the room, the user has the alternative to resize the room manually. The user has the choice to set the room to scale for easier maneuvering when it comes to picking the right couch or right bedside table.
+After decorating the room to the preferred choice of the user, the user is able to view the room from different perspectives. When the user is using FlippingRooms, the user can view the room from the side and top angle to ensure that this is the ideal final look for the specific room being remodelled.
+
+[Description of validation test]
+1) Test for the ability to utilize the camera on different devices
+2) Validate if room measurements are accurate
+3) Test manual specification of room size
+4) Take picture of various room sizes to test automatic scaling functionality
+5) Confirm if room can be viewed at the alternative top and side viewing angles
+
+2. Catalogue [Description of Feature]
+Redecorating a room may be a daunting experience for some people. Some people might find it hard to visualise how a room is going to look like when they purchase a new television set or a new L-shape couch. Furniture in general is also not cheap. FlippingRooms does not want the user to make a decision to purchase something that will create a hole in their wallets and potentially regretting it later on in the future. Well, FlippingRooms can be a solution to all of those problems. 
+FlippingRooms provides a catalogue of pre-installed furniture in the application. Users are allowed to experiment with different kinds of furniture to enhance the new look of their room and to make sure they are liking the final design before making any final decisions.
+
+[Description of validation test]
+1) Open catalogue with no items added in
+2) Add an item to catalogue and test the ability to move and place it within a room
+3) Browse through different items in the catalogue 
+
+3. Building tools [Description of Feature]
+Not only does FlippingRooms offer the different types of furniture in our catalogue, we offer the users a chance to renovate their homes as well. With the in build building tools provided by FlippingRooms, the user is able to view the entire room from a whole different look.
+FlippingRooms provide the users the ability to do these things listed below:
+  - User can add multiple partitions in the room for renovation purposes
+  - User can add different types of floorings (wooden, tiles, carpet)
+  - User can add different types of lighting
+  - User can add different paint colours and wallpapers to their liking
+
+[Description of validation test]
+1) Test adding partitions into a room
+2) Test removing partitions
+3) Test replacing floor with different floor types
+4) Test various lighting options
+5) Change wall into solid block of colour
+6) Change wall to available wallpaper in catalogue
+
+4. Account creation [Description of Feature]
+Users are given the option to sign up with an account that allows them to save their designed layouts. With an account with FlippingRooms, users will be updated with the latest advancements our app has to offer. With secure login criterias, users will be able to decide whether to have their designs available publicly or have them private and be shared with those the user has chosen.
+This feature is great for people who are interested in showcasing their work to potential clients. For example, an Interior Designer is able to wipe out their work at any given moment and redecorate the ideal room for the client in real time.
+
+[Description of validation test]
+
+5. To-buy list [Description of Feature]
+FlippingRooms also provides the user an option to create a to-buy list. When the user is satisfied with the layout of the new room, the user is allowed to add their desired furniture in a checklist to ensure nothing is missed out. Users are able to add notes and comments like dimensions to ensure the right product is bought when they are out to shop and make their ideal room a reality. 
+
+[Description of validation test]
+1) Add furniture from catalogue into buy list
+2) Remove item from buy list
+3) Ensure dimensions are viewable within buylist
+
+Extended Viable Features (EVF) [Sean and Christian]
+
+If the user is happy with our app, the user is able to purchase our application and create a premium account on FlippingRooms. With a purchase of $10.99, the user is exposed to a range of extended features provided by FlippingRooms. One of the many features provided by FlippingRooms is having the option to remove advertisements within the application.
+
+1.  Templates [Description of Feature]
+For users that are having a hard time being inspired, FlippingRooms has provided users with simple templates for them to redecorate and remodel their dream home. Users are able to choose designs based on a specific colour chart to a style that the users wants to experiment with. With designs from minimalistic or retro, FlippingRooms has it all.
+Users are also given the opportunity to unleash their inner creativity and just have fun with redecorating an AR version of their dream home and leave it in the application for browsing purposes.
+
+[Description of validation test]
+
+2. Professional Consultation (Designers, Architects, etc.) [Description of Feature]
+Besides being able to remove ads, users will be connected to various professional consultations that have partnered up with FlippingRooms. Users will be connected to top of the art consultants to ensure the perfect set up for their homes. Users get to choose from a plethora of Interior Designers, Architects and Engineers with their full profile to ensure they pick the perfect person to work with. 
+Users are able to give customer feedback as well if they are happy with the service.
+
+[Description of validation test]
+
+3. Geotagging locations
+Besides being connected to various professionals in the industry, users are given the choice to enable their geolocation services. Users who enable this function will be able to connect themselves with furniture stores around the vicinity and compare prices based on their own personal budgets. 
+To ensure their privacy is being taken care of, this information is strictly confidential and between the user and FlippingRooms. Once the user is satisfied with their findings, the user is able to turn off their locations at any point of time.
+
+[Description of validation test]
